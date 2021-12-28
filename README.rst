@@ -1,40 +1,29 @@
-AlertOps Expert Guidance
+Prebuilt Integration of AlertOps and NodePing Keeps Your Critical Web Services Online
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+NodePing is a web service monitor that tracks your website and email service status and performance.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+NodePing checks on critical web services every minute and provides on-demand diagnostic tools. NodePing is capable performing 21 different checks. With all these capabilities, you’ll always know what’s going on with your web services. And, if there’s a problem, you’ll know why there’s a problem.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+NodePing lets you know when a service is down and why it’s not working, but it’s not an incident management system. Once NodePing hands the information off to you, it’s your responsibility to use that data.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+AlertOps completes the incident resolution equation. An AlertOps and NodePing integration enables you to distribute incident information from NodePing to your incident management teams so you can respond faster and resolve problems sooner.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Here’s how AlertOps and NodePing make your incident management more efficient and effective:
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+    Automatically create an incident and alert incident management teams when NodePing sends an alert. AlertOps handles the administration and communication so your teams can focus on putting out fires.
+    Send custom messages with alerts. This way your teams have critical troubleshooting information as soon as an incident alert is received, and have up-to-the-minute information until the incident is resolved.
+    Map any inbound field to custom fields or topic fields in AlertOps, and use topics to track incidents and route alerts to the best team for the job. Automated information distribution means less redundant work and faster time to resolution.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+These are just a few examples of how integrating AlertOps and NodePing maximizes the performance and uptime of your critical web services. With AlertOps you also get configurable message routing rules, customizable workflows, automated incident escalation according to escalation policies, and more. Everything you need for easy incident management!
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Head over to our help center to learn how to configure your AlertOps and NodePing integration, and find out what else this integration can do for you.
 
-1 Red Canary 2021 Threat Detection Report
+Or check out over 50 other third party integrations for the monitoring and communication tools you already know and love
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-and-nodeping-integration/
 
 Read more:
 ====
